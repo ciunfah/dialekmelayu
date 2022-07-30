@@ -1,0 +1,93 @@
+/--- Malay Rhymes ---/
+
+	[EJA]	Baku Spelling
+	[PCT]	Baku Pronunciation
+	[ABK]	Baku Bagan-Klang Pronunciation
+	[RLP]	Riau-Lingga Pronunciation
+	[JSP]	Johor-Selangor Pronunciation
+ 	[BKP]	Bagan-Klang Pronunciation
+
+
+	[EJA]	-a	-i	-u	-e	-é	-o
+	[PCT]	/-a/	/-i/	/-u/	/-ə/	/-e/	/-o/
+	[ABK]	[-aə]	[-ɪj]	[-ʊw]	(-)	[-eə]	[-əʊ]
+	[RLP]	[-ə]	[-ɪ]	[-ʊ]	(-)	[-e]	[-o]
+	[JSP]	[-ə]	[-ɪ]	[-ʊ]	(-)	[-e]	[-o]
+	[BKP]	[-ə]	[-ɪ]	[-ʊ]	(-)	[-e̞]	[-o̞]
+
+	[EJA]	-ah	-ih	-uh	-eh	-éh	-oh
+	[PCT]	/-ah/	/-ih/	/-uh/	/-əh/	/-eh/	/-oh/
+	[ABK]	[-aəh]	[-eɪh]	[-əʊh]	(-)	(-)	[-ɔʊh]
+	[RLP]	[-əh]	[-ɪh]	[-ʊh]	(-)	(-)	(-)
+	[JSP]	[-əh]	[-eh]	[-oh]	(-)	(-)	(-)
+	[BKP]	[-əh]	[-ɪh]	[-ʊh]	(-)	(-)	(-)
+        
+	[EJA]	-am	-im	-um	-em	-ém	-om
+	[PCT]	/-am/	/-im/	/-um/	/-əm/	/-em/	/-om/
+	[ABK]	[-am]	[-iɪm]	[-əʊm]	(-)	(-)	[-ɔʊm]
+	[RLP]	[-am]	[-ɪm]	[-ʊm]	(-)	(-)	(-)
+	[JSP]	[-am]	[-ɪm]	[-om]	(-)	(-)	(-)
+	[BKP]	[-am]	[-ɪm]	[-ʊm]	(-)	(-)	(-)
+        
+	[EJA]	-an	-in	-un	-en	-én	-on
+	[PCT]	/-an/	/-in/	/-un/	/-ən/	/-en/	/-on/
+	[ABK]	[-an]	[-iɪn]	[-əʊn]	(-)	(-)	[-ɔʊm]
+	[RLP]	[-an]	[-ɪn]	[-ʊn]	(-)	(-)	(-)
+	[JSP]	[-an]	[-ɪn]	[-on]	(-)	(-)	(-)
+	[BKP]	[-an]	[-ɪn]	[-ʊn]	(-)	(-)	(-)
+
+	[EJA]	-ang	-ing	-ung	-eng	-éng	-ong
+	[PCT]	/-aŋ/	/-iŋ/	/-uŋ/	/-əŋ/	/-eŋ/	/-oŋ/
+	[ABK]	[-aŋ]	[-ɪəŋ]	[-əʊŋ]	(-)	[-eəŋ]	[-ɔʊŋ]
+	[RLP]	[-aŋ]	[-ɪŋ]	[-ʊŋ]	(-)	(-)	(-)
+	[JSP]	[-aŋ]	[-eŋ]	[-oŋ]	(-)	(-)	(-)
+	[BKP]	[-aŋ]	[-ɪŋ]	[-ʊŋ]	(-)	(-)	(-)
+
+	[EJA]	-ap	-ip	-up	-ep	-ép	-op
+	[PCT]	/-ap/	/-ip/	/-up/	/-əp/	/-ep/	/-op/
+	[ABK]	[-ap]	[-iɪp]	[-əʊp]	(-)	(-)	[-ɔʊp]
+	[RLP]	[-ap]	[-ɪp]	[-ʊp]	(-)	(-)	(-)
+	[JSP]	[-ap]	[-ɪp]	[-op]	(-)	(-)	(-)
+	[BKP]	[-ap]	[-ɪp]	[-ʊp]	(-)	(-)	(-)
+        
+	[EJA]	-at	-it	-ut	-et	-ét	-ot
+	[PCT]	/-at/	/-it/	/-ut/	/-ət/	/-et/	/-ot/
+	[ABK]	[-at]	[-iɪt]	[-əʊt]	(-)	(-)	[-ɔʊm]
+	[RLP]	[-at]	[-ɪt]	[-ʊt]	(-)	(-)	(-)
+	[JSP]	[-at]	[-ɪt]	[-ot]	(-)	(-)	(-)
+	[BKP]	[-at]	[-ɪt]	[-ʊt]	(-)	(-)	(-)
+
+	[EJA]	-ak	-ik	-uk	-ek	-ék	-ok
+	[PCT]	/-aʔ/	/-iʔ/	/-uʔ/	/-əʔ/	/-eʔ/	/-oʔ/
+	[ABK]	[-]	[-eəʔ]	[-əʊʔ]	[-]	[-]	[-]
+	[RLP]	[-]	[-eʔ]	[-ʊʔ]	[-]	[-]	[-]
+	[JSP]	[-]	[-ɪʔ]	[-oʔ]	[-]	[-]	[-]
+	[BKP]	[-]	[-e̞ʔ]	[-ʊʔ]	[-]	[-]	[-]
+
+	[EJA]	-ar	-ir	-ur	-er	-ér	-or
+	[PCT]	/-ar/	/-ir/	/-ur/	/-ər/	/-er/	/-or/
+	[ABK]	[-ɑː]	[-]	[-]	[-]	[-]	[-]
+	[RLP]	[-äː]	[-]	[-]	[-]	[-]	[-]
+	[JSP]	[-]	[-]	[-]	[-]	[-]	[-]
+	[BKP]	[-]	[-]	[-]	[-]	[-]	[-]
+
+	[EJA]	-al	-il	-ul	-el	-él	-ol
+	[PCT]	/-al/	/-il/	/-ul/	/-əl/	/-el/	/-ol/
+	[ABK]	[-]	[-]	[-əʊl]	[-]	[-]	[-]
+	[RLP]	[-]	[-]	[-ʊl]	[-]	[-]	[-]
+	[JSP]	[-]	[-]	[-ol]	[-]	[-]	[-]
+	[BKP]	[-]	[-]	[-]	[-]	[-]	[-]
+
+	[EJA]	-as	-is	-us	-es	-és	-os
+	[PCT]	/-as/	/-is/	/-us/	/-əs/	/-es/	/-os/
+	[ABK]	[-]	[-]	[-]	[-]	[-]	[-]
+	[RLP]	[-]	[-]	[-]	[-]	[-]	[-]
+	[JSP]	[-]	[-]	[-]	[-]	[-]	[-]
+	[BKP]	[-]	[-]	[-]	[-]	[-]	[-]
+
+	[EJA]	-af	-if	-uf	-ef	-éf	-of
+	[PCT]	/-af/	/-if/	/-uf/	/-əf/	/-ef/	/-of/
+	[ABK]	[-]	[-]	[-]	[-]	[-]	[-]
+	[RLP]	[-]	[-]	[-]	[-]	[-]	[-]
+	[JSP]	[-]	[-]	[-]	[-]	[-]	[-]
+	[BKP]	[-]	[-]	[-]	[-]	[-]	[-]
